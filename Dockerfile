@@ -1,4 +1,4 @@
-FROM mongo:4.2.7-bionic
+FROM mongo:4.2.24-bionic
 MAINTAINER zcw
 ENV TZ=Asia/Shanghai
 
